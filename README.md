@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wealthineer
 - 👀 I’m interested in tech and finance
-- 🌱 I’m currently learning all things related to crypto - especially how to code on the blockchain (e.g. Solidity)
+- 🌱 Currently I am working as a product lead in a crypto related customer loyalty projec in my day job and love to dabble in different crypto topics in my spare time 
 - 💞️ I’m looking to collaborate on any fun and promising projects in the crypto space.
 - 📫 You reach me on twitter @Wealthineer1
 
